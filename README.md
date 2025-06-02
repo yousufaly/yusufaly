@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">DARQ.SHADOW 😈</h1>
 
 <p align="center">
@@ -9,10 +9,12 @@
 
 ## 👨‍💻 About Me:
 
-- 🔥 I go by the name **DARQ.SHADOW**
+- 🔥 I go by the name **DARQ.SHADOW** — where light fades, I begin.
 - 🧠 Languages in order: `Python` > `Back-End` > `PHP` > `C++` > `Java`
 - 💻 Fields: `Web Development`, `Python`, `C++`, `Bash`
 - 🕶️ I code from the shadows — automation, dark web research, backend wizardry.
+- 💡 I'm driven by chaos and creativity, blending logic with a touch of the forbidden.
+- 📍 From the depths of the digital abyss, I build systems that whisper in binary.
 
 ---
 
