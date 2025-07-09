@@ -1,5 +1,5 @@
 
-<h1 align="center">DARQ.SHADOW </h1>
+<h1 align="center">ENG.00BS </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Web+Dev+%7C+Python+%7C+C%2B%2B+%7C+Bash;Coding+is+my+dark+playground+%F0%9F%92%80;Welcome+to+my+shadow+realm..." alt="Typing SVG" />
